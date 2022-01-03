@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mesolly](https://github.com/mesolly)
 
-- 📫 How to reach me **saurav.kandar.123@gmail.com**
+- 📫 How to reach me **saurav.kandari.123@gmail.com**
 
 - ⚡ Fun fact **I love to watch anime**
 
