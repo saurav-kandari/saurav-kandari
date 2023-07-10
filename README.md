@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/solly717" target="blank"><img src="https://img.shields.io/twitter/follow/solly717?logo=twitter&style=for-the-badge" alt="solly717" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 👯 I’m looking to collaborate on **Spring Boot Projects**
+- 👯 I’m looking to collaborate on **Angular Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mesolly](https://github.com/mesolly)
 
-- 📫 How to reach me **saurav.kandari.123@gmail.com**
+- 📫 How to reach me **sauravkandari07@gmail.com**
 
 - ⚡ Fun fact **I love to watch anime**
 
